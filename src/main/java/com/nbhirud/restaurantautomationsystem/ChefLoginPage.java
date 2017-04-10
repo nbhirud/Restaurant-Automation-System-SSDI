@@ -68,7 +68,7 @@ public void close(){
         jLabel3.setFont(new java.awt.Font("Times New Roman", 3, 18)); // NOI18N
         jLabel3.setText("Password");
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Chef3.jpg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\NetBeansProjects\\RestaurantAutomationSystem\\Images\\Chef3.jpg")); // NOI18N
 
         login.setFont(new java.awt.Font("Times New Roman", 1, 14)); // NOI18N
         login.setText("LOGIN");

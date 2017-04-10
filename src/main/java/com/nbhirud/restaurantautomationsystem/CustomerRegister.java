@@ -187,7 +187,7 @@ JOptionPane.showMessageDialog(null,e);
             }
         });
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/welcome.png"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("E:\\NetBeansProjects\\RestaurantAutomationSystem\\Images\\welcome.png")); // NOI18N
 
         jLabel7.setFont(new java.awt.Font("Times New Roman", 3, 18)); // NOI18N
         jLabel7.setText("Confirm Password");

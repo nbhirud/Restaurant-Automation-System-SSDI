@@ -106,7 +106,7 @@ public void close(){
             }
         });
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\revanth\\Desktop\\restaurant.jpg")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("E:\\NetBeansProjects\\RestaurantAutomationSystem\\Images\\restaurant.jpg")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
