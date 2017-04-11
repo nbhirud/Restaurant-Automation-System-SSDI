@@ -66,7 +66,7 @@ mail.put("mail.smtp.port","465");
 Session session=Session.getDefaultInstance(mail,
 new javax.mail.Authenticator()   {
 protected PasswordAuthentication getPasswordAuthentication() {
-return new PasswordAuthentication("ras1.team10@gmail.com","ras.team");
+return new PasswordAuthentication("myrestaurantautomation@gmail.com","rasrasras");
 }
 }
 );  
